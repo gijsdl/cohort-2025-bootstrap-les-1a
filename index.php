@@ -53,61 +53,73 @@
 <!--    </div>-->
 <!--</div>-->
 
-<div class="container-fluid">
-    <div class="row">
-        <div class="col-sm-12 col-md-6 col-lg-3 bg-primary">
-            text
-        </div>
-        <div class="col-sm-12 col-md-6 col-lg-3 bg-secondary">
-            text
-        </div>
-        <div class="col-sm-12 col-md-7 col-lg-3 bg-success">
-            text
-        </div>
-        <div class="col-sm-12 col-md-5 col-lg-3 bg-danger">
-            <img src="img/logo.jpeg" alt="logo" class="img-fluid rounded">
-        </div>
-    </div>
-</div>
+<!--<div class="container-fluid">-->
+<!--    <div class="row">-->
+<!--        <div class="col-sm-12 col-md-6 col-lg-3 bg-primary">-->
+<!--            text-->
+<!--        </div>-->
+<!--        <div class="col-sm-12 col-md-6 col-lg-3 bg-secondary">-->
+<!--            text-->
+<!--        </div>-->
+<!--        <div class="col-sm-12 col-md-7 col-lg-3 bg-success">-->
+<!--            text-->
+<!--        </div>-->
+<!--        <div class="col-sm-12 col-md-5 col-lg-3 bg-danger">-->
+<!--            <img src="img/logo.jpeg" alt="logo" class="img-fluid rounded">-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
 <!-- les 4 -->
-<div class="container">
-    <div class="row">
-        <div class="col">
-            <div class="card-group pb-2">
-                <div class="card">
-                    <img src="img/logo.png" class="card-img-top" alt="logo">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of
-                            the card’s content.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-                <div class="card">
-                    <img src="img/logo.png" class="card-img-top" alt="...">
-                    <div class="card-body">
-                        <h5 class="card-title">Card title</h5>
-                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur
-                            consectetur dicta dolor dolore dolores error fugit hic illo inventore labore quas reiciendis
-                            voluptas, voluptate? A aliquid amet aperiam aut autem, culpa deserunt eos et facilis id
-                            labore necessitatibus nemo, nesciunt nobis officiis, quibusdam quo quos rem repudiandae
-                            tenetur. Accusamus asperiores, culpa dolorem est et eum, exercitationem ipsa minima natus
-                            odit pariatur provident quidem reiciendis repudiandae saepe suscipit veniam vero. A amet
-                            deleniti esse est laudantium minima nisi placeat sunt temporibus vero! Dicta ducimus facere
-                            fugiat impedit in laborum ut voluptates? Aliquam at consequuntur culpa cum doloribus eveniet
-                            hic illum inventore, ipsa iure laboriosam laborum maxime modi neque odit pariatur quasi qui
-                            quod reiciendis, similique sit unde vel velit veniam voluptas voluptatem voluptatibus
-                            voluptatum! Ab aliquid aspernatur blanditiis consequatur cumque cupiditate, dolor dolorum
-                            ducimus ex hic illo, incidunt iste laborum minima molestias obcaecati officia officiis quasi
-                            quos rem repellat reprehenderit rerum saepe tempore ullam! Accusamus aliquam esse laboriosam
-                            provident rerum sit soluta vero? At commodi culpa cum deleniti doloremque doloribus earum
-                            enim est eum ex expedita impedit in iste labore laboriosam laudantium maxime, minus modi
-                            molestias mollitia natus necessitatibus nemo neque quis quisquam quod quos saepe tempore
-                            unde ut velit veritatis.</p>
-                        <a href="#" class="btn btn-primary">Go somewhere</a>
-                    </div>
-                </div>
-            </div>
+<!--<div class="container">-->
+<!--    <div class="row">-->
+<!--        <div class="col">-->
+<!--            <div class="card-group pb-2">-->
+<!--                <div class="card">-->
+<!--                    <img src="img/logo.png" class="card-img-top" alt="logo">-->
+<!--                    <div class="card-body">-->
+<!--                        <h5 class="card-title">Card title</h5>-->
+<!--                        <p class="card-text">Some quick example text to build on the card title and make up the bulk of-->
+<!--                            the card’s content.</p>-->
+<!--                        <a href="#" class="btn btn-primary">Go somewhere</a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--                <div class="card">-->
+<!--                    <img src="img/logo.png" class="card-img-top" alt="...">-->
+<!--                    <div class="card-body">-->
+<!--                        <h5 class="card-title">Card title</h5>-->
+<!--                        <p class="card-text">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur-->
+<!--                            consectetur dicta dolor dolore dolores error fugit hic illo inventore labore quas reiciendis-->
+<!--                            voluptas, voluptate? A aliquid amet aperiam aut autem, culpa deserunt eos et facilis id-->
+<!--                            labore necessitatibus nemo, nesciunt nobis officiis, quibusdam quo quos rem repudiandae-->
+<!--                            tenetur. Accusamus asperiores, culpa dolorem est et eum, exercitationem ipsa minima natus-->
+<!--                            odit pariatur provident quidem reiciendis repudiandae saepe suscipit veniam vero. A amet-->
+<!--                            deleniti esse est laudantium minima nisi placeat sunt temporibus vero! Dicta ducimus facere-->
+<!--                            fugiat impedit in laborum ut voluptates? Aliquam at consequuntur culpa cum doloribus eveniet-->
+<!--                            hic illum inventore, ipsa iure laboriosam laborum maxime modi neque odit pariatur quasi qui-->
+<!--                            quod reiciendis, similique sit unde vel velit veniam voluptas voluptatem voluptatibus-->
+<!--                            voluptatum! Ab aliquid aspernatur blanditiis consequatur cumque cupiditate, dolor dolorum-->
+<!--                            ducimus ex hic illo, incidunt iste laborum minima molestias obcaecati officia officiis quasi-->
+<!--                            quos rem repellat reprehenderit rerum saepe tempore ullam! Accusamus aliquam esse laboriosam-->
+<!--                            provident rerum sit soluta vero? At commodi culpa cum deleniti doloremque doloribus earum-->
+<!--                            enim est eum ex expedita impedit in iste labore laboriosam laudantium maxime, minus modi-->
+<!--                            molestias mollitia natus necessitatibus nemo neque quis quisquam quod quos saepe tempore-->
+<!--                            unde ut velit veritatis.</p>-->
+<!--                        <a href="#" class="btn btn-primary">Go somewhere</a>-->
+<!--                    </div>-->
+<!--                </div>-->
+<!--            </div>-->
+<!--        </div>-->
+<!--    </div>-->
+<!--</div>-->
+
+<!-- Les 5 -->
+<div class="container-fluid">
+    <div class="row bg-warning">
+        <div class="col d-flex flex-column flex-lg-row justify-content-around align-items-center">
+            <a href="#">Home</a>
+            <a href="#">page 1</a>
+            <a href="#">page 2</a>
+            <img src="img/logo.png" class="img-fluid" alt="logo">
         </div>
     </div>
 </div>
